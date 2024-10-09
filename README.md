@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Protótipo de Sistema de internação para clínica veterinária
 
 Este projeto é uma aplicação Node.js para gerenciar informações sobre pets em uma clínica veterinária. Ele fornece operações de CRUD (Criar, Ler, Atualizar e Deletar) para gerenciar registros de pets, tutores e pacientes.
 
