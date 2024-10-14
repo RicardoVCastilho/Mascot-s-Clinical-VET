@@ -36,7 +36,8 @@ const tutor = [
 const vet = [
     {
         id: 1,
-        personRegisterId: 2
+        personRegisterId: 2,
+        crmv: "1234/ab"
     }
 ];
 
@@ -57,6 +58,7 @@ const pet = [
         color: "Branco",
         weight: "9KG",
         sex: "M or F",
+        age: "",
         photo: "./photo.jpg",
         behavior: "Arisco",
         neurologicalDisorders: false,
@@ -94,7 +96,7 @@ const treatment = [
         recomendations: "Colocar a recomendação e as contraindicações do tratamento",
         isAlergic: true,
         alergicTo: "Nome da medicação que é alergico",
-        specialConditions: "Diabético",
+        specialConditi3ons: "Diabético",
         dischargePreview: "2024-10-11 08:00:00",
         dischargeNotes: "Observações do veterinário pós alta"
     }
